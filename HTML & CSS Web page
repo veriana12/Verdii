@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tribute to Napoleon Bonaparte</title>
+    <title>Tribute to Ben Carson</title>
     <style>
         body {
             font-family: "Times New Roman", Times, serif;
@@ -63,11 +63,11 @@
 <body>
 
     <header>
-        <h1>Tribute to Napoleon</h1>
+        <h1>Tribute to Ben Carson</h1>
     </header>
 
     <section>
-        <img src="C:\Users\student\Desktop\Sule\nap.jpg" alt="Napoleon Bonaparte">
+        <img src="C:\Users\student\Desktop\v\carson.jpg" alt="Ben Carson">
         <h2>A Military Genius and Devoted Leader</h2>
         <p>
             Napoleon Bonaparte, a towering figure in history, left an indelible mark as a military genius, a passionate leader, and a devoted husband. Born in Corsica in 1769, Napoleon's meteoric rise through the ranks showcased his unparalleled strategic acumen and unyielding determination.
